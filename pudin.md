@@ -11,7 +11,7 @@
 
 #### Primera fase, 15 minutos
 
-Preparar los espárragos _al estilo Pasión_: Se trocean los espárragos, se echa aceite en una sartén (grande) como para sofreirlos, y se echa agua para que cubran los espárragos. Y sal por supuesto. Se deja a medio fuego, y se aprovecha para picar la cebolla y casi toda la lata de pimientos.
+Preparar los espárragos _al estilo Pasión_: Se trocean los espárragos, se echa aceite en una sartén (grande) como para sofreirlos, y se echa agua para que cubran los espárragos. Y sal por supuesto. Se deja a medio fuego, y se aprovecha para picar la cebolla y casi toda la lata de pimientos (dejo un poco para decorar al final).
 
 #### Segunda fase, 10 minutos
 
