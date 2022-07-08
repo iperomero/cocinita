@@ -1,3 +1,3 @@
 # Recetas varias
 
-bla, bla, bla
+Un experimento aprender git, markdown y a cocinar
