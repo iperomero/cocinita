@@ -11,13 +11,14 @@
 * 2 ajos laminados
 * Aceite de oliva
 * Mostaza
-* Mermelada de naranja
 * Pimienta, sal
 * Una cebolla, un pimiento o dos
 * Vino dulce
 
-Cortar la cebolla y el pimiento y dejarlo como base, echarle aceite y sal.
+Cortar la cebolla y el pimiento para dejarlo como base, echarle aceite y sal.
 
-Untar la carne con la mostaza y la mermelada. Salpimentar. Regar con vino dulce.
+Sellar la carne, y en la misma sartén, pochar un poco la verdura.
 
-Dejar 50 a 55' en el horno a 180. Pinchar 10-5 minutos antes
+Untar la carne con la mostaza. Salpimentar. Regar con vino dulce.
+
+Dejar 50 a 55' en el horno a 200. Pinchar 10-5 minutos antes
