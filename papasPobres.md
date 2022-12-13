@@ -1,4 +1,16 @@
+<<<<<<< HEAD
 ## Papas rápidas a lo pobre Thermomix
+=======
+<<<<<<< HEAD
+## Papas rápidas a lo pobre Thermomix
+=======
+<<<<<<< HEAD
+## Papas rápidas a lo pobre Thermomix
+=======
+## Papas a lo pobre Thermomix
+>>>>>>> e9070980710a6599ab087f707680facb7608ddef
+>>>>>>> 430b1237251dcbd43e31553a270ba141b9fcd182
+>>>>>>> f61784dd75a84de4e2c7b4c9b1cec0a4bda0f0ed
 
 #### Ingredientes
 
@@ -7,6 +19,13 @@ Primera parte:
 * Aceite de oliva 100 gr
 
 Segunda parte:
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+* Agua 150 gr
+=======
+<<<<<<< HEAD
+>>>>>>> f61784dd75a84de4e2c7b4c9b1cec0a4bda0f0ed
 * Agua 150 gr
 * 650 patatas laminadas
 * 1 cebolla mediana en trocitos
@@ -16,6 +35,12 @@ Segunda parte:
 ## 1. Freir el ajo y calentar aceite
 
 Poner el aceite y el ajo en la Thermomix. No olvides poner la mariposa, Ipe. Más blandita con más tiempo y más agua.
+<<<<<<< HEAD
+=======
+=======
+* Agua 100 gr
+>>>>>>> 430b1237251dcbd43e31553a270ba141b9fcd182
+>>>>>>> f61784dd75a84de4e2c7b4c9b1cec0a4bda0f0ed
 * 650 patatas laminadas
 * 1 cebolla mediana en trocitos
 * 2 pimientos medianos en trocitos
@@ -23,8 +48,17 @@ Poner el aceite y el ajo en la Thermomix. No olvides poner la mariposa, Ipe. Má
 
 ## 1. Freir el ajo
 
+<<<<<<< HEAD
 Poner el aceite y el ajo en la Thermomix. No olvides poner la mariposa, Ipe. Más blandita con más tiempo y más agua.
 Poner el aceite y el ajo en la Thermomix: 
+=======
+<<<<<<< HEAD
+Poner el aceite y el ajo en la Thermomix. No olvides poner la mariposa, Ipe. Más blandita con más tiempo y más agua.
+=======
+Poner el aceite y el ajo en la Thermomix: 
+>>>>>>> e9070980710a6599ab087f707680facb7608ddef
+>>>>>>> 430b1237251dcbd43e31553a270ba141b9fcd182
+>>>>>>> f61784dd75a84de4e2c7b4c9b1cec0a4bda0f0ed
 
 * Tiempo: **4 minutos** 
 * Temperatura: **varoma**
@@ -36,7 +70,19 @@ Poner el aceite y el ajo en la Thermomix:
 
 Pues eso. Echar el resto:
 
+<<<<<<< HEAD
 * Tiempo: **18-20 minutos** 
+=======
+<<<<<<< HEAD
+* Tiempo: **18-20 minutos** 
+=======
+<<<<<<< HEAD
+* Tiempo: **18-20 minutos** 
+=======
+* Tiempo: **15 minutos** 
+>>>>>>> e9070980710a6599ab087f707680facb7608ddef
+>>>>>>> 430b1237251dcbd43e31553a270ba141b9fcd182
+>>>>>>> f61784dd75a84de4e2c7b4c9b1cec0a4bda0f0ed
 * Temperatura: **varoma**
 * Velocidad: **cuchara**
 * Accesorio: **mariposa**
