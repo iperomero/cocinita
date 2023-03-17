@@ -1,4 +1,4 @@
-## Lomo de cerdo con mermelada de naranja amarga
+## Lomo de cerdo básico
 
 ### Tiempos
 
