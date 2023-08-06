@@ -1,7 +1,7 @@
 ### Pesto
 
 * Proporciones para un diente de ajo grande
-* 50 gr albahaca
+* 30 gr albahaca
 * 50 gr queso curado rallado
 * 50 gr piñones o nueces
 * 100 gr aceite
