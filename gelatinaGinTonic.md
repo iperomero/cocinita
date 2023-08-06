@@ -21,4 +21,4 @@ El último ingrediente debe ser la tónica. Verterla lentamente para que no pier
 
 Se deja en el mismo recipiente o en individuales. 
 
-Para desmoldar fácilmente (teóricamente) previamente se le unta aceite de girasol al molde y se mete en el congelador al menos 5 minutos. Se supone que se puede desmoldar mejor. Pero nada
+Para desmoldar fácilmente (teóricamente) previamente se le unta aceite de girasol al molde y se mete en el congelador al menos 5 minutos. Se supone que se puede desmoldar mejor. Pero nada.
