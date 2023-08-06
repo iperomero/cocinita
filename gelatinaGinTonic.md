@@ -19,4 +19,6 @@ Echar la ralladura y dejar en reposo 15 minutos
 
 El último ingrediente debe ser la tónica. Verterla lentamente para que no pierda el gas, y mezclar con mucha lentitud. 
 
-Se deja en el mismo recipiente o en individuales
+Se deja en el mismo recipiente o en individuales. 
+
+Previamente se le unta aceite de girasol al molde y se mete en el congelador al menos 5 minutos. Se supone que se puede desmoldar mejor. Pro nada
