@@ -7,7 +7,7 @@ Primera parte:
 * Aceite de oliva 100 gr
 
 Segunda parte:
-* Agua 150 gr
+* Agua 100 gr
 * 650 patatas laminadas
 * 1 cebolla mediana en trocitos
 * 2 pimientos medianos en trocitos
