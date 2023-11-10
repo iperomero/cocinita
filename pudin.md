@@ -19,11 +19,13 @@ Pasados unos 15 minutos, cuando no quede agua, y sólo aceite, echamos la ceboll
 
 #### Tercera fase, 5 minutos
 
-Echar los 5 huevos, la rebanada de pan con vino, pimienta opcional, un chorreón de ketchup opcional, ajustar la sal, por los huevos, y meter la minipimer un buen rato. 
+Echar los 5 huevos, la rebanada de pan con vino, pimienta opcional, un chorreón de ketchup opcional, ajustar la sal, por los huevos, y meter la minipimer un buen rato, pero mientras más tiempo, más probabilidad de "desinfle". 
 
 #### Horneado, 1 hora
 
-Echar la mezcla en un recipiente con papel de horno, calculando que crece un 20 o 30%, y meter a 180 al baño maría durante una hora aproximadamente. 
+Echar la mezcla en un recipiente con papel de horno, previamente untado con aceite de girasol, para que el papel se adhiera algo al fondo. Además, no hace falta en las paredes, porque se pasa el cuchillo. Solo en el fondo, Calcula que crece un 20 o 30%.
+
+Meter a 175 al baño maría durante 50 minutos, aproximadamente, ydeja que se enfríe un cuarto de hora más, dentro del horno, para evitar cambios bruscos de temperatura que lo desinflen. 
 
 #### Y para servirlo...
 
