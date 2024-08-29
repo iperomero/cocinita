@@ -4,7 +4,7 @@
 
 Primera parte: 
 * 2 ajos laminados
-* Aceite de oliva 100 gr
+* Aceite de oliva 80-100 gr
 
 Segunda parte:
 * Agua 100 gr
