@@ -40,3 +40,7 @@ Proteger la planta durante el invierno: si vives en una zona con inviernos frío
 
 Regar adecuadamente: durante el otoño, deberás continuar regando las hortensias para asegurarte de que tengan suficiente agua antes de que llegue el invierno. Sin embargo, asegúrate de no regar en exceso, ya que esto puede dañar las raíces y provocar problemas de pudrición.
 
+# Evónimo
+
+
+
